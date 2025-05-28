@@ -1,4 +1,4 @@
-/* Copyright (c) 2025 Wickslynx - Original bootloader. */
+/* Copyright (c) 2025 Wickslynx - Original Author. */
 
 .code32
 .section .text.prologue
