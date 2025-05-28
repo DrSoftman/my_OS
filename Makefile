@@ -1,3 +1,6 @@
+# This file is just copied from AuroraOS (made by Wickslynx), I am going to rewrite it so that everyting corresponds to the
+# file tree of this repo and works correctly.
+
 CC=gcc
 CXX = g++
 NASM=nasm
