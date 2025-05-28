@@ -1,3 +1,4 @@
+/* Copyright (c) 2025 Wickslynx - Original Author */
 #ifndef INTERRUPTS_H
 #define INTERRUPTS_H
 
