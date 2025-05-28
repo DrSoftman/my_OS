@@ -1,3 +1,4 @@
+/* Copyright (c) 2025 Wickslynx - Original bootloader. */
 .code16
 .org 0
 
