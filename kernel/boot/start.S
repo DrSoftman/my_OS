@@ -1,3 +1,5 @@
+/* Copyright (c) 2025 Wickslynx - Original bootloader. */
+
 .code32
 .section .text.prologue
 
